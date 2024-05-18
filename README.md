@@ -1,0 +1,1 @@
+# Alocale - A mini browser
